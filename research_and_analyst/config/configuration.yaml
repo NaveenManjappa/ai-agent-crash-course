@@ -1,0 +1,16 @@
+llm: 
+  google: 
+    provider: "google"
+    model_name: "gemini-3-flash-preview"
+    temperature: 0
+    max_output_tokens: 2048
+
+# astra_db:
+#   collection_name:"ecommercedata"
+
+# embedding_model:
+#   provider:"google"
+#   model_name:"models/text-embedding-004"
+
+# retreiver:
+#   top_k: 4
